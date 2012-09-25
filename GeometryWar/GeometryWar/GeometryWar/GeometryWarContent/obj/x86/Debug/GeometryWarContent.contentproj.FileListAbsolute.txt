@@ -1,0 +1,2 @@
+C:\Users\lab314\Desktop\GeometryWar\GeometryWar\GeometryWarContent\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\GeometryWar\GeometryWar\GeometryWar\GeometryWarContent\obj\x86\Debug\ResolveAssemblyReference.cache

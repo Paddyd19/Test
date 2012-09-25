@@ -1,0 +1,102 @@
+C:\Users\lab314\Desktop\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\GeometryWar.exe
+C:\Users\lab314\Desktop\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\GeometryWar.pdb
+C:\Users\lab314\Desktop\GeometryWar\GeometryWar\GeometryWar\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\lab314\Desktop\GeometryWar\GeometryWar\GeometryWar\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\lab314\Desktop\GeometryWar\GeometryWar\GeometryWar\obj\x86\Debug\GeometryWar.exe
+C:\Users\lab314\Desktop\GeometryWar\GeometryWar\GeometryWar\obj\x86\Debug\GeometryWar.pdb
+C:\Users\lab314\Desktop\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\F-22B.xnb
+C:\Users\lab314\Desktop\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\FAX-44 MkIII b.xnb
+C:\Users\lab314\Desktop\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\FAX-44 MkII a.xnb
+C:\Users\lab314\Desktop\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\B-3 a.xnb
+C:\Users\lab314\Desktop\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\B-3.xnb
+C:\Users\lab314\Desktop\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\Bomber39.xnb
+C:\Users\lab314\Desktop\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\F-15F a.xnb
+C:\Users\lab314\Desktop\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\F-15F.xnb
+C:\Users\lab314\Desktop\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\F-24.xnb
+C:\Users\lab314\Desktop\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\F-35D.xnb
+C:\Users\lab314\Desktop\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\F-45A a.xnb
+C:\Users\lab314\Desktop\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\F-45A c.xnb
+C:\Users\lab314\Desktop\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\F-45A.xnb
+C:\Users\lab314\Desktop\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\FA-18H a.xnb
+C:\Users\lab314\Desktop\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\FA-18H.xnb
+C:\Users\lab314\Desktop\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\FA-28 in.xnb
+C:\Users\lab314\Desktop\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\FA-28 out.xnb
+C:\Users\lab314\Desktop\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\FAX-44 MkI.xnb
+C:\Users\lab314\Desktop\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\FAX-44 MkII.xnb
+C:\Users\lab314\Desktop\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\FAX-44 MkIII a.xnb
+C:\Users\lab314\Desktop\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\FAX-44 MkIII.xnb
+C:\Users\lab314\Desktop\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\FB-23A.xnb
+C:\Users\lab314\Desktop\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\FQ-3.xnb
+C:\Users\lab314\Desktop\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\FQ-4.xnb
+C:\Users\lab314\Desktop\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\MiG-51.xnb
+C:\Users\lab314\Desktop\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\MiG-51A.xnb
+C:\Users\lab314\Desktop\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\MiG-51S.xnb
+C:\Users\lab314\Desktop\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\SR-91A.xnb
+C:\Users\lab314\Desktop\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\Su-37K.xnb
+C:\Users\lab314\Desktop\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\Su-49.xnb
+C:\Users\lab314\Desktop\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\Su-51K in.xnb
+C:\Users\lab314\Desktop\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\Su-51K out.xnb
+C:\Users\lab314\Desktop\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\Su-55.xnb
+C:\Users\lab314\Desktop\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\T-20.xnb
+C:\Users\lab314\Desktop\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\Ye-355A.xnb
+C:\Users\lab314\Desktop\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\Bubble.xnb
+C:\Users\lab314\Desktop\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\thumb_Ship001.xnb
+C:\Users\lab314\Desktop\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\EnemyShip001.xnb
+C:\Users\lab314\Desktop\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\MyFont.xnb
+C:\Users\lab314\Desktop\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\redPixel.xnb
+C:\Users\lab314\Desktop\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\bluePixel.xnb
+C:\Users\lab314\Desktop\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\whitePixel.xnb
+C:\Users\lab314\Desktop\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\yellowPixel.xnb
+C:\Users\lab314\Desktop\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\radarBackground.xnb
+C:\Users\lab314\Desktop\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\radarBackgroundLrg.xnb
+E:\GeometryWar\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\F-22B.xnb
+E:\GeometryWar\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\FAX-44 MkIII b.xnb
+E:\GeometryWar\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\FAX-44 MkII a.xnb
+E:\GeometryWar\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\B-3 a.xnb
+E:\GeometryWar\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\B-3.xnb
+E:\GeometryWar\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\Bomber39.xnb
+E:\GeometryWar\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\F-15F a.xnb
+E:\GeometryWar\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\F-15F.xnb
+E:\GeometryWar\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\F-24.xnb
+E:\GeometryWar\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\F-35D.xnb
+E:\GeometryWar\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\F-45A a.xnb
+E:\GeometryWar\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\F-45A c.xnb
+E:\GeometryWar\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\F-45A.xnb
+E:\GeometryWar\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\FA-18H a.xnb
+E:\GeometryWar\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\FA-18H.xnb
+E:\GeometryWar\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\FA-28 in.xnb
+E:\GeometryWar\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\FA-28 out.xnb
+E:\GeometryWar\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\FAX-44 MkI.xnb
+E:\GeometryWar\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\FAX-44 MkII.xnb
+E:\GeometryWar\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\FAX-44 MkIII a.xnb
+E:\GeometryWar\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\FAX-44 MkIII.xnb
+E:\GeometryWar\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\FB-23A.xnb
+E:\GeometryWar\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\FQ-3.xnb
+E:\GeometryWar\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\FQ-4.xnb
+E:\GeometryWar\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\MiG-51.xnb
+E:\GeometryWar\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\MiG-51A.xnb
+E:\GeometryWar\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\MiG-51S.xnb
+E:\GeometryWar\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\SR-91A.xnb
+E:\GeometryWar\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\Su-37K.xnb
+E:\GeometryWar\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\Su-49.xnb
+E:\GeometryWar\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\Su-51K in.xnb
+E:\GeometryWar\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\Su-51K out.xnb
+E:\GeometryWar\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\Su-55.xnb
+E:\GeometryWar\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\T-20.xnb
+E:\GeometryWar\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\Ye-355A.xnb
+E:\GeometryWar\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\Bubble.xnb
+E:\GeometryWar\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\thumb_Ship001.xnb
+E:\GeometryWar\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\EnemyShip001.xnb
+E:\GeometryWar\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\redPixel.xnb
+E:\GeometryWar\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\bluePixel.xnb
+E:\GeometryWar\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\whitePixel.xnb
+E:\GeometryWar\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\yellowPixel.xnb
+E:\GeometryWar\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\radarBackground.xnb
+E:\GeometryWar\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\radarBackgroundLrg.xnb
+E:\GeometryWar\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\MyFont.xnb
+E:\GeometryWar\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\GeometryWar.exe
+E:\GeometryWar\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\GeometryWar.pdb
+E:\GeometryWar\GeometryWar\GeometryWar\GeometryWar\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\GeometryWar\GeometryWar\GeometryWar\GeometryWar\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\GeometryWar\GeometryWar\GeometryWar\GeometryWar\obj\x86\Debug\GeometryWar.exe
+E:\GeometryWar\GeometryWar\GeometryWar\GeometryWar\obj\x86\Debug\GeometryWar.pdb
